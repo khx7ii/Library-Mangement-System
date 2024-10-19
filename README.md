@@ -1,2 +1,2 @@
-### Library Management System
-is an online platform that enables users to browse and borrow books, manage their accounts, and leave comments on books. It keeps track of book availability, user checkouts, and enforces penalties for late returns, ensuring efficient management of library resources and user accountability.
+## Library Management System 
+The Library Management System is a web-based application built using the .NET MVC framework, designed to efficiently manage library resources while providing a user-friendly platform for library members. The system enables users to search, borrow, and manage books online, while administrators oversee library operations.
