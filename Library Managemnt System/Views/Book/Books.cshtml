@@ -1,0 +1,129 @@
+﻿
+@{
+    ViewData["Title"] = "Books";   
+    var paginateData = (PaginatedListViewModel<Book>)ViewData["pageinateData"];
+    var categories = (Dictionary<int, string>)ViewData["Categories"];
+}
+}
+@model List<Book>
+<section class="slider_section">
+    <br> <br> <br> <br> <br>  <br> <br> <br>
+</section>
+
+<form asp-action="Search" asp-controller="Book" method="post" class="d-flex justify-content-center mb-4">
+    <div class="input-group " style="max-width: 600px;">
+        <input type="text" id="search" name="Name" class="form-control border" placeholder="Enter name of book / Author" aria-label="Search for book" />
+        <button type="submit" class="btn btn-success">Search</button>
+    </div>
+</form>
+@* <a href="/Book/Add" class="btn btn-info" style="margin: 10px;">Add Book</a>
+ *@<table class="table table-bordered table-hover">
+    <tr class= "table-info">
+        @if (User.IsInRole("Admin"))
+        {
+            <th>Name</th>
+            <th>Author</th>
+            <th>Image</th>
+            <th>Category</th> 
+            <th>Update</th>
+            <th>Delete</th>
+        }
+        else
+        {
+            <th>Name</th>
+            <th>Author</th>
+            <th>Image</th>
+            <th>Category</th> 
+            <th>Borrow</th>
+            <th>Return</th>
+        }
+
+
+    </tr>
+    @foreach (var item in Model)
+    {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Author</td>            
+                <td><img src="@item.Image" alt="@item.Name" class="img-fluid" width="180" height="500" /></td>
+                <td>@item.Category.Name</td>
+
+            @if (User.IsInRole("Admin"))
+            {
+                <td><a href="/Book/Update/@item.Id" class="btn btn-info">Edit</a></td>
+                <td>
+                            <form asp-action="Delete" asp-controller="Book" asp-route-id="@item.Id" method="post" onsubmit="return confirmDelete();">
+                            <button  type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                </td>
+            }
+            else
+            {
+                        <td><a href="/Account/Borrow/@item.Id" class="btn btn-info">Borrow</a> </td>
+                         <td><a href="/Account/Return/@item.Id" class="btn btn-info">Return</a> </td>
+            }
+
+                    
+            </tr>
+    }
+
+</table>
+
+
+<nav aria-label="Page navigation" class="d-flex justify-content-center mt-4">
+    <ul class="pagination">
+        @if (paginateData.HasPreviousPage)
+        {
+            <li class="page-item">
+                <a asp-action="GetAll" asp-route-PageNumber="@(paginateData.CurrentPage - 1)" class="page-link">Previous</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled">
+                <a class="page-link">Previous</a>
+            </li>
+        }
+
+        @for (var i = 1; i <= paginateData.TotalPages; i++)
+        {
+            <li class="page-item @(paginateData.CurrentPage == i ? "active" : "")">
+                <a asp-action="GetAll" asp-route-PageNumber="@i" class="page-link">@i</a>
+            </li>
+        }
+
+        @if (paginateData.HasNextPage)
+        {
+            <li class="page-item">
+                <a asp-action="GetAll" asp-route-PageNumber="@(paginateData.CurrentPage + 1)" class="page-link">Next</a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled">
+                <a class="page-link">Next</a>
+            </li>
+        }
+    </ul>
+</nav>
+
+
+@*  <div class="book-container">
+    @foreach (var book in Model)
+    {
+                <div class="book-card">
+                    <img src="@book.ImagePath" alt="@book.Name" class="book-image">
+                    <h3>@book.Name</h3>
+                    <p>Author: @book.Author</p>
+                    <p>Genre: @book.CategoryId</p>
+                </div>
+    }
+    </div> *@
+
+
+<script type="text/javascript">
+    function confirmDelete() {
+        return confirm('Are you sure you want to delete this Book?');
+    }
+</script>
+

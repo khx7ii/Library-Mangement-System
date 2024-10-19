@@ -1,0 +1,1012 @@
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\appsettings.Development.json
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\appsettings.json
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.staticwebassets.runtime.json
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.exe
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.deps.json
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.runtimeconfig.json
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.pdb
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.AssemblyInfoInputs.cache
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.AssemblyInfo.cs
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.csproj.CoreCompileInputs.cache
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.RazorAssemblyInfo.cache
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.RazorAssemblyInfo.cs
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.build.json
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.development.json
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.Library Managemnt System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.build.Library Managemnt System.props
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library Managemnt System.props
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library Managemnt System.props
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.pack.json
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\bundle\Library Managemnt System.styles.css
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\projectbundle\Library Managemnt System.bundle.scp.css
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\refint\Library Managemnt System.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.pdb
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.genruntimeconfig.cache
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\ref\Library Managemnt System.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Humanizer.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.csproj.AssemblyReference.cache
+D:\visual studio\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library .B10B175A.Up2Date
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\MessagePack.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Common.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\visual studio\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\appsettings.Development.json
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\appsettings.json
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.staticwebassets.runtime.json
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.exe
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.deps.json
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.runtimeconfig.json
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.pdb
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Humanizer.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\MessagePack.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Common.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.csproj.AssemblyReference.cache
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.AssemblyInfoInputs.cache
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.AssemblyInfo.cs
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.csproj.CoreCompileInputs.cache
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.MvcApplicationPartsAssemblyInfo.cache
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.RazorAssemblyInfo.cache
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.RazorAssemblyInfo.cs
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.Library Managemnt System.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.build.Library Managemnt System.props
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library Managemnt System.props
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library Managemnt System.props
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.pack.json
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.build.json
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.development.json
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\bundle\Library Managemnt System.styles.css
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\projectbundle\Library Managemnt System.bundle.scp.css
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.csproj.CopyComplete
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\refint\Library Managemnt System.dll
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.pdb
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.genruntimeconfig.cache
+E:\dot_net\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\ref\Library Managemnt System.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\appsettings.Development.json
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\appsettings.json
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.staticwebassets.runtime.json
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.exe
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.deps.json
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.runtimeconfig.json
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.pdb
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Humanizer.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\MessagePack.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Common.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.csproj.AssemblyReference.cache
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.AssemblyInfoInputs.cache
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.AssemblyInfo.cs
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.csproj.CoreCompileInputs.cache
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.RazorAssemblyInfo.cache
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.RazorAssemblyInfo.cs
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.build.json
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.development.json
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.Library Managemnt System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.build.Library Managemnt System.props
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library Managemnt System.props
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library Managemnt System.props
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.pack.json
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\bundle\Library Managemnt System.styles.css
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\projectbundle\Library Managemnt System.bundle.scp.css
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library .B10B175A.Up2Date
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\refint\Library Managemnt System.dll
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.pdb
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.genruntimeconfig.cache
+D:\visual studio\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\ref\Library Managemnt System.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\refint\Library Managemnt System.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.pdb
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\appsettings.json
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.staticwebassets.runtime.json
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.exe
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.deps.json
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.runtimeconfig.json
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Library Managemnt System.pdb
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\MessagePack.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.csproj.AssemblyReference.cache
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.AssemblyInfoInputs.cache
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.AssemblyInfo.cs
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.csproj.CoreCompileInputs.cache
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.RazorAssemblyInfo.cache
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.RazorAssemblyInfo.cs
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.Library Managemnt System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.build.Library Managemnt System.props
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library Managemnt System.props
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library Managemnt System.props
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\bundle\Library Managemnt System.styles.css
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\scopedcss\projectbundle\Library Managemnt System.bundle.scp.css
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library .B10B175A.Up2Date
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\Library Managemnt System.genruntimeconfig.cache
+C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\obj\Debug\net6.0\ref\Library Managemnt System.dll

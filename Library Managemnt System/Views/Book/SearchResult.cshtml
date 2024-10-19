@@ -1,0 +1,46 @@
+﻿@model List<Book>
+@{
+    ViewData["Title"] = "SearchResult";
+    var categories = (Dictionary<int, string>)ViewData["Categories"];
+}
+<section class="slider_section">
+    <br> <br> <br> <br> <br>  <br> <br> <br>
+</section>
+<h1 class="text-center text-primary mb-4">Search Results</h1>
+
+<form asp-action="Search" asp-controller="Book" method="post" class="d-flex justify-content-center mb-4">
+    <div class="input-group" style="max-width: 600px;">
+        <input type="text" id="search" name="Name" class="form-control border" placeholder="Enter name of book / Author" aria-label="Search for book" />
+        <button type="submit" class="btn btn-success">Search</button>
+    </div>
+</form>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-hover table-striped shadow-sm" style="border-radius: 10px; overflow: hidden;">
+        <thead class="table-info text-center">
+            <tr>
+                <th>Name</th>
+                <th>Author</th>
+                <th>Image</th>
+                <th>Category Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="text-center align-middle">
+                    <td>@item.Name</td>
+                    <td>@item.Author</td>
+                    <td>
+                        <img src="@item.Image" alt="@item.Name" class="img-thumbnail" height="100" width="100" />
+                    </td>
+                    <td>@item.Category.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div class="text-center mt-4">
+    <a asp-action="GetAll" asp-controller="Category" class="btn btn-primary btn-lg">Back</a>
+</div>

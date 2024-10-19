@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "ReturnLateTax";
+}
+@model Checkout
+<section class="slider_section">
+    <br> <br> <br> <br> <br>  <br> <br> <br>
+</section>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <!-- Late Tax Details Card -->
+            <div class="card shadow-lg border-light">
+                <div class="card-header bg-primary text-white d-flex align-items-center">
+                   
+                    <h4 class="mb-0">Return Information</h4>
+                </div>
+                <div class="card-body">
+                    @if (ViewBag.NotBorrowed == null)
+                    {
+                        <div class="mb-3">
+                            <h5 class="card-title">Checkout Date: <span class="text-muted">@Model.CheckoutDate</span></h5>
+                        </div>
+                        <div class="mb-3">
+                            <h5 class="card-title">Due Date: <span class="text-muted">@Model.DueDate</span></h5>
+                        </div>
+                        <div class="mb-3">
+                            <h5 class="card-title">Return Date: <span class="text-muted">@Model.ReturnDate</span></h5>
+                        </div>
+                        <div class="mb-3">
+                            <h5 class="card-title">Late Tax: <span class="text-muted">@Model.Penalty EGP</span></h5>
+                        </div>
+                        <div class="mt-4">
+                            <form asp-action="SaveReturn" asp-controller="Account" asp-route-id="@Model.Id" method="post">
+                                <button type="submit" class="btn btn-primary" onclick="successReturn()">Confirm</button>
+                            </form>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="alert alert-warning" role="alert">
+                            <h5 class="alert-heading">@ViewBag.NotBorrowed</h5>
+                            <button type="button" class="btn btn-danger disabled">Not Borrowed</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function successReturn() {
+        alert('Book has been returned successfully!');
+    }
+</script>

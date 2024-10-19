@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewData["Title"] = "Add";
+	SelectList categorylist = new SelectList(ViewBag.Categories, "Id", "Name");
+
+}
+@model BookViewModel
+<section class="slider_section">
+	<br> <br> <br> <br> <br>  <br> <br> <br>
+</section>
+
+<div class="container">
+    <main role="main" class="pb-3">
+        <h1 class="text-center">Add New Book</h1>
+        <h4 class="text-secondary">Book Details</h4>
+        <hr />
+
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <form asp-action="SaveAdd" asp-controller="Book" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Name" class="form-label"></label>
+                        <input asp-for="Name" class="form-control" placeholder="Enter book name" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Author" class="form-label"></label>
+                        <input asp-for="Author" class="form-control" placeholder="Enter author name" />
+                        <span asp-validation-for="Author" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Quantity" class="form-label"></label>
+                        <input asp-for="Quantity" class="form-control" placeholder="Enter quantity" />
+                        <span asp-validation-for="Quantity" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Image" class="form-label"></label>
+                        <input asp-for="Image" type="file" class="form-control" />
+                        <span asp-validation-for="Image" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Describtion" class="form-label"></label>
+                        <textarea asp-for="Describtion" class="form-control" rows="5" placeholder="Enter book description"></textarea>
+                        <span asp-validation-for="Describtion" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="CategoryId" class="form-label"></label>
+                        <select asp-for="CategoryId" class="form-control" asp-items="categorylist">
+                            <option value="">Select a category</option>
+                        </select>
+                    </div>
+
+
+                    <div class="form-group">
+                        <input type="submit" value="Add" class="btn btn-success btn-lg" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div class="mt-4 text-center">
+            <a asp-action="GetAll" asp-controller="Category" class="btn btn-secondary" style="margin: 10px;">Back to List</a>
+        </div>
+    </main>
+</div>
+
+<section class="slider_section">
+    <br> <br> <br> <br> <br> <br>
+</section>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

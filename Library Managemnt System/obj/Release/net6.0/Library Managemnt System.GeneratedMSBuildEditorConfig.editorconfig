@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Library_Managemnt_System
+build_property.RootNamespace = Library_Managemnt_System
+build_property.ProjectDir = C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\asem\Desktop\Library Managemnt System1\Library Managemnt System\Library Managemnt System\Library Managemnt System
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Account/Borrow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxCb3Jyb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Account/Checkouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGVja291dHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Account/CheckoutsAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGVja291dHNBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Account/RegisterRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RlclJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Account/ReturnLateTax.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXR1cm5MYXRlVGF4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Book/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Book/Books.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xCb29rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Book/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Book/SearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xTZWFyY2hSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Category/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Category/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Category/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Category/SearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcU2VhcmNoUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Comment/Comment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Role/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asem/Desktop/Library Managemnt System1/Library Managemnt System/Library Managemnt System/Library Managemnt System/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o3k9v7ia5s

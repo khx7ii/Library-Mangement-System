@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewData["Title"] = "Borrow";
+}
+
+<section class="slider_section">
+    <br> <br> <br> <br> <br>  <br> <br> <br>
+</section>
+
+@model BookViewModel
+
+
+
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <!-- Book Details Card -->
+            <div class="card shadow-lg border-light">
+                <div class="card-header bg-primary text-white">
+                    <h1 class="mb-1"><strong> @Model.Name</strong></h1>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="@Model.ImagePath" alt="@Model.Name" class="img-fluid rounded shadow-sm" />
+                        </div>
+                        <div class="col-md-8">
+                            <p class="card-text">@Model.Describtion</p>
+                        </div>
+                    </div>
+
+                    <div class="mt-3">
+                        <h5 class="card-title">Category: <span class="text-muted">@Model.CategoryName</span></h5>
+                        <h5 class="card-title">Author: <span class="text-muted">@Model.Author</span></h5>
+                        <h5 class="card-title">Quantity: <span class="text-muted">@Model.Quantity</span></h5>
+                    </div>
+
+                    <div class="mt-4">
+                        <form asp-action="SaveBorrow" asp-controller="Account" asp-route-id="@Model.Id" method="post">
+                            @if (Model.Quantity == 0)
+                            {
+                                <button type="submit" class="btn btn-secondary disabled">Out Of Stock</button>
+                            }
+                            else if (ViewBag.Borrowed != null)
+                            {
+                                <button type="submit" class="btn btn-warning disabled">Borrowed</button>
+                                <div class="alert alert-info mt-3" role="alert">@ViewBag.Borrowed </div>
+                            }
+                            else
+                            {
+                                <button type="submit" class="btn btn-primary" onclick="successBorrow()">Borrow Book</button>
+                            }
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Comments Section -->
+    <div class="mt-4">
+        <h5>Comments</h5>
+        <ul class="list-group list-group-flush">
+            @if (ViewBag.comments != null )
+            {
+                foreach (var comment in ViewBag.comments)
+                {
+                    <li class="list-group-item">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <h5 class="mb-1"><strong>@comment.userName</strong></h5>
+                        </div>
+                        <p class="mb-1">@comment.Describtion</p>
+                    </li>
+                }
+            }
+            else
+            {
+                <li class="list-group-item">No comments available.</li>
+            }
+        </ul>
+    </div>
+
+    <!-- Comment Submission Section -->
+    @if (ViewBag.Borrowed != null)
+    {
+        <form action="/Comment/SaveComment/@Model.Id" method="post" class="mt-3">
+            <div class="form-floating mb-3">
+                <textarea class="form-control" asp-for="Comment" placeholder="Comment goes here" required></textarea>
+                <label asp-for="Comment">Comments</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    }
+</div>
+
+<script type="text/javascript">
+    function successBorrow() {
+        alert('Book has been borrowed successfully!');
+    }
+</script>

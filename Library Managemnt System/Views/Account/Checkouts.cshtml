@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Checkouts";
+}
+
+<section class="slider_section">
+    <br> <br> <br> <br> <br> <br> <br>
+</section>
+
+@model List<Checkout>
+
+<div class="container mt-5">
+    <h2>Your Checkouts</h2>
+    <div class="row">
+        @if (Model.Any())
+        {
+            foreach (var checkout in Model)
+            {
+                if (checkout.ActiveFlag)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">@checkout.Book.Name</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">Book ID: @checkout.BookId</h6>
+                                <p class="card-text">
+                                    Checked out on: <strong>@checkout.CheckoutDate.ToShortDateString()</strong><br />
+                                    Due: <strong>@checkout.DueDate.ToShortDateString()</strong>
+                                </p>
+                                <span class="badge badge-success">Valid</span>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        }
+        else
+        {
+            <div class="alert alert-warning" role="alert">
+                You have no checkouts.
+            </div>
+        }
+    </div>
+</div>

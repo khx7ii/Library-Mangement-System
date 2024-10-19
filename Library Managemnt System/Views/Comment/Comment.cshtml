@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewData["Title"] = "Comment";
+    var books = ViewBag.Books;
+}
+@model List<Comment>
+<section class="slider_section">
+    <br> <br> <br> <br> <br>  <br> <br> <br>
+</section>
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5>Your Comments</h5>
+                </div>
+                <div class="card-body">
+                    @if (Model.Any())
+                    {
+                        <ul class="list-group list-group-flush">
+                            @foreach (var comment in Model)
+                            {
+                                <li class="list-group-item">
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <p class="mb-1">@books[comment.BookId]</p>
+
+                                        <div>                                           
+                                            <small class="text-muted">Created at:@comment.date</small>
+                                        </div>
+                                    </div>
+                                    <p class="mb-1">@comment.Describtion</p>
+                                </li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <p>No comments yet.</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

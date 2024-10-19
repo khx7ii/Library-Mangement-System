@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|c:\\users\\asem\\desktop\\library managemnt system1\\library managemnt system\\library managemnt system\\library managemnt system\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|solutionrelative:library managemnt system\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|c:\\users\\asem\\desktop\\library managemnt system1\\library managemnt system\\library managemnt system\\library managemnt system\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|solutionrelative:library managemnt system\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|c:\\users\\asem\\desktop\\library managemnt system1\\library managemnt system\\library managemnt system\\library managemnt system\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|solutionrelative:library managemnt system\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|c:\\users\\asem\\desktop\\library managemnt system1\\library managemnt system\\library managemnt system\\library managemnt system\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|solutionrelative:library managemnt system\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|c:\\users\\asem\\desktop\\library managemnt system1\\library managemnt system\\library managemnt system\\library managemnt system\\views\\category\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|solutionrelative:library managemnt system\\views\\category\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|c:\\users\\asem\\desktop\\library managemnt system1\\library managemnt system\\library managemnt system\\library managemnt system\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|solutionrelative:library managemnt system\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|c:\\users\\asem\\desktop\\library managemnt system1\\library managemnt system\\library managemnt system\\library managemnt system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|solutionrelative:library managemnt system\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|c:\\users\\asem\\desktop\\library managemnt system1\\library managemnt system\\library managemnt system\\library managemnt system\\views\\book\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|solutionrelative:library managemnt system\\views\\book\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|c:\\users\\asem\\desktop\\library managemnt system1\\library managemnt system\\library managemnt system\\library managemnt system\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C326C96-DE6B-4C14-B62E-CF8ED07B1C56}|Library Managemnt System\\Library Managemnt System.csproj|solutionrelative:library managemnt system\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library Managemnt System\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Models\\Book.cs",
+              "RelativeToolTip": "Library Managemnt System\\Models\\Book.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:52:58.893Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library Managemnt System\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library Managemnt System\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAKgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:52:43.776Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Library Managemnt System\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Library Managemnt System\\Repositories\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:53:07.617Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Library Managemnt System\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Library Managemnt System\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:53:05.824Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\ViewModel\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "Library Managemnt System\\ViewModel\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\ViewModel\\BookViewModel.cs",
+              "RelativeToolTip": "Library Managemnt System\\ViewModel\\BookViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:53:37.125Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Views\\Category\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Library Managemnt System\\Views\\Category\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Views\\Category\\GetAll.cshtml",
+              "RelativeToolTip": "Library Managemnt System\\Views\\Category\\GetAll.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T09:04:47.497Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Library Managemnt System\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Library Managemnt System\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T09:04:24.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Books.cshtml",
+              "DocumentMoniker": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Views\\Book\\Books.cshtml",
+              "RelativeDocumentMoniker": "Library Managemnt System\\Views\\Book\\Books.cshtml",
+              "ToolTip": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Views\\Book\\Books.cshtml",
+              "RelativeToolTip": "Library Managemnt System\\Views\\Book\\Books.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T09:04:21.675Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Views\\Book\\Add.cshtml",
+              "RelativeDocumentMoniker": "Library Managemnt System\\Views\\Book\\Add.cshtml",
+              "ToolTip": "C:\\Users\\asem\\Desktop\\Library Managemnt System1\\Library Managemnt System\\Library Managemnt System\\Library Managemnt System\\Views\\Book\\Add.cshtml",
+              "RelativeToolTip": "Library Managemnt System\\Views\\Book\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T09:04:14.364Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

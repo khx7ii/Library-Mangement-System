@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewData["Title"] = "CheckoutsAdmin";
+}
+
+<section class="slider_section">
+    <br> <br> <br> <br> <br>  <br> <br> <br>
+</section>
+
+<h1>CheckoutsAdmin</h1>
+
+@model List<Checkout>
+
+<table class="table table-bordered table-hover">
+    <tr class= "table-info">
+        
+                 <th>Checkout ID</th>
+                <th>User Name</th>
+                <th>Book Name</th>
+                <th>Book Id</th>
+                <th>Checkout Date</th> 
+                <th>Due Date</th>
+                <th>Penalty</th>
+                <th>Active Flag</th>
+
+
+    </tr>
+    @foreach (var item in Model)
+    {
+                <tr>
+                    <td>@item.Id</td> 
+                    <td>@item.ApplicationUser.UserName</td>            
+                    <td>@item.Book.Name</td>
+                    <td>@item.BookId</td>
+                    <td>@item.CheckoutDate</td>
+                    <td>@item.DueDate</td>
+                    <td>@item.Penalty</td>
+
+                    @if (item.ActiveFlag)
+                    {
+                        <td><span class="text-success">Valid</span></td>
+
+                    }
+                    else
+                    {
+                        <td><span class="text-danger">Invalid</span></td>
+
+                    }
+
+
+
+                    @* <td><img src="@item.Image" alt="@item.Name" class="img-fluid" width="180" height="500" /></td>
+                    <td>@item.Category.Name</td> *@
+
+           
+
+
+                </tr>
+    }
+
+</table>
